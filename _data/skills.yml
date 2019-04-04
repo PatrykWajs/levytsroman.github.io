@@ -21,8 +21,6 @@
       skill_name: Java
     - class: c-plain
       skill_name: C
-    - class: c++-plain
-      skill_name: C++
     - class: c#-plain
       skill_name: C#
     - class: liquid-plain
