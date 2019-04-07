@@ -1,0 +1,86 @@
+---
+# Personal details
+name: Patryk Wajs
+address:
+- Gerasimou Markora 97
+- Corfu
+- 49100
+phone: "+30 6949948414"
+email: patrykwajs1996@gmail.com
+# Insert URLs without http://
+urls:
+- github.com/patrykwajs
+- www.facebook.com/patrik.bais
+- https://www.instagram.com/patrik.bais/?hl=pl
+- twitter.com/PatrikBais
+
+# Sections
+
+intro: "Upcoming Web Developer/Designer - Digital Marketer . Just a student trying new things. Constantly Overthinking about Life and stuff"
+
+skills:
+- Web Development
+- Web Design
+- Digital Marketing
+- Database Management
+
+experience:
+#- years:
+#  employer:
+#  job:
+#  city:
+
+
+education:
+- year: 2019
+  subject: Computer Science
+  institute: Ionian University
+  city: Corfu
+
+web:
+      - HTML5
+      - CSS3
+      - SASS
+      - Bootstrap
+
+programming_languages:
+      - JavaScript
+      - Python
+      - PHP
+      - Java
+      - C
+      - C#
+      - Liquid
+
+databases:
+      - MongoDB
+      - MySQL
+
+frontend_frameworks:
+      - Jekyll
+
+#backend frameworks:
+#      skill_name: NodeJS
+
+devops:
+      - Git
+      - GitHub
+
+#-testing:
+#      skill_name: RSpec
+
+#mobile:
+#      skill_name: React Native
+
+languages:
+      - Polish
+      - Greek
+      - English
+      - French
+
+# Settings
+mainfont: Lato-Medium.ttf
+fontsize: 10pt
+lang: en-US
+geometry: a4paper, left=35mm, right=35mm, top=51mm, bottom=17mm
+---
